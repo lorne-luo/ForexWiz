@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="expiryIntervals">
+    	<item>1/2 Hours</item>
+        <item>1 Hour</item>
+        <item>4 Hours</item>
+        <item>1 Day</item>
+        <item>1 Week</item>
+        <item>1 Month</item>
+    </string-array>
+    <string-array name="currencies">
+        <item>USD</item>
+        <item>CAD</item>
+        <item>EUR</item>
+        <item>CHF</item>
+        <item>AUD</item>
+        <item>GBP</item>
+        <item>JPY</item>
+    </string-array>
+</resources>

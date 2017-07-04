@@ -1,0 +1,27 @@
+App Key：6997b6f65d434ccc94017a29555b0067
+App Secret：fc9da57202dd679414d869e8e6cb4912
+
+
+http://open.t.qq.com/api/statuses/user_timeline?format=json&pageflag=0&reqnum=20&pagetime=0
+name=huayuan609
+
+<root>
+<data>
+<hasnext>0</hasnext>
+<info>
+<city_code>1</city_code>
+<count>0</count>
+<country_code>1</country_code>
+<from>QQ</from>
+<geo>0</geo>
+<head>http://app.qlogo.cn/mbloghead/b250b5d6a8eb2d18af30</head>
+<id>7547114050195</id>
+<image/><isvip>0</isvip><location>河南 郑州</location><name>huayuan609</name><nick>郑州张永琪</nick>
+<origtext>黄金短线多头目标1325-30</origtext><province_code>41</province_code><self>0</self><source/><status>0</status><text>黄金短线多头目标1325-30</text><timestamp>1298905974</timestamp><type>1</type>
+</info>
+<timestamp>1298959928</timestamp>
+<totalnum>177</totalnum>
+</data>
+<msg>ok</msg>
+<ret>0</ret>
+</root>

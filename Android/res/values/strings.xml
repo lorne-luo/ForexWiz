@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">外汇行家</string>
+    <string name="app_ver">1.2</string>
+    <string name="app_about"><![CDATA[&lt;外汇行家&gt;]]>是一款外汇即时信息提示应用，可以实时获取外汇市场实时报价、基本面消息、行情分析。&lt;br&gt;另外本应用还提供Windows桌面版本下载，请访问&lt;br/&gt;&lt;a href=http://forexwiz.sinaapp.com&gt;http://forexwiz.sinaapp.com&lt;/a&gt;&lt;br/&gt;了解详情</string>
+    <string name="ok">确定</string>
+    
+    <string name="loading_price_titile">更新价格</string>
+    <string name="loading_price_please_wait">更新价格中,请稍后…</string>
+    <string name="loading_news_titile">更新新闻</string>
+    <string name="loading_news_please_wait">更新新闻中,请稍后…</string>
+    <string name="loading_tech_titile">更新技术分析</string>
+    <string name="loading_tech_please_wait">更新技术分析中,请稍后…</string>
+    <string name="loading_event_titile">更新财经日历</string>
+    <string name="loading_event_please_wait">更新财经事件中,请稍后…</string>
+    <string name="loading_failed">更新失败，请检查网络…</string>
+</resources>

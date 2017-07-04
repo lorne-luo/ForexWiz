@@ -1,0 +1,34 @@
+C:\My Space\leostudio\ForexWiz\ForexWiz\bin\Debug\ForexWizEntity.dll
+C:\My Space\leostudio\ForexWiz\ForexWiz\bin\Debug\ForexWizEntity.pdb
+C:\My Space\leostudio\ForexWiz\ForexWiz\bin\Debug\AutoUpdater.dll
+C:\My Space\leostudio\ForexWiz\ForexWiz\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\My Space\leostudio\ForexWiz\ForexWiz\bin\Debug\DevComponents.DotNetBar2.dll
+C:\My Space\leostudio\ForexWiz\ForexWiz\bin\Debug\HtmlAgilityPack.dll
+C:\My Space\leostudio\ForexWiz\ForexWiz\bin\Debug\QWeiboSDK.dll
+C:\My Space\leostudio\ForexWiz\ForexWiz\bin\Debug\System.Web.Extensions.dll
+C:\My Space\leostudio\ForexWiz\ForexWiz\bin\Debug\AutoUpdater.pdb
+C:\My Space\leostudio\ForexWiz\ForexWiz\obj\Debug\ResolveAssemblyReference.cache
+C:\My Space\leostudio\ForexWiz\ForexWiz\obj\Debug\LeoStudio.ForexWiz.Forms.ContactForm.resources
+C:\My Space\leostudio\ForexWiz\ForexWiz\obj\Debug\LeoStudio.ForexWiz.Forms.MainForm.resources
+C:\My Space\leostudio\ForexWiz\ForexWiz\obj\Debug\LeoStudio.Forms.ReportMsg.resources
+C:\My Space\leostudio\ForexWiz\ForexWiz\obj\Debug\ForexWizEntity.csproj.GenerateResource.Cache
+C:\My Space\leostudio\ForexWiz\ForexWiz\obj\Debug\ForexWizEntity.dll
+C:\My Space\leostudio\ForexWiz\ForexWiz\obj\Debug\ForexWizEntity.pdb
+C:\My Space\leostudio\ForexWiz\ForexWiz\bin\Debug\AutoUpdater.config
+C:\My Space\LeoStudio\.Net Works\ForexWiz\ForexWiz\bin\Debug\AutoUpdater.config
+C:\My Space\LeoStudio\.Net Works\ForexWiz\ForexWiz\bin\Debug\ForexWizEntity.dll
+C:\My Space\LeoStudio\.Net Works\ForexWiz\ForexWiz\bin\Debug\ForexWizEntity.pdb
+C:\My Space\LeoStudio\.Net Works\ForexWiz\ForexWiz\bin\Debug\AutoUpdater.dll
+C:\My Space\LeoStudio\.Net Works\ForexWiz\ForexWiz\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\My Space\LeoStudio\.Net Works\ForexWiz\ForexWiz\bin\Debug\DevComponents.DotNetBar2.dll
+C:\My Space\LeoStudio\.Net Works\ForexWiz\ForexWiz\bin\Debug\HtmlAgilityPack.dll
+C:\My Space\LeoStudio\.Net Works\ForexWiz\ForexWiz\bin\Debug\QWeiboSDK.dll
+C:\My Space\LeoStudio\.Net Works\ForexWiz\ForexWiz\bin\Debug\System.Web.Extensions.dll
+C:\My Space\LeoStudio\.Net Works\ForexWiz\ForexWiz\bin\Debug\AutoUpdater.pdb
+C:\My Space\LeoStudio\.Net Works\ForexWiz\ForexWiz\obj\Debug\ResolveAssemblyReference.cache
+C:\My Space\LeoStudio\.Net Works\ForexWiz\ForexWiz\obj\Debug\LeoStudio.ForexWiz.Forms.ContactForm.resources
+C:\My Space\LeoStudio\.Net Works\ForexWiz\ForexWiz\obj\Debug\LeoStudio.ForexWiz.Forms.MainForm.resources
+C:\My Space\LeoStudio\.Net Works\ForexWiz\ForexWiz\obj\Debug\LeoStudio.Forms.ReportMsg.resources
+C:\My Space\LeoStudio\.Net Works\ForexWiz\ForexWiz\obj\Debug\ForexWizEntity.csproj.GenerateResource.Cache
+C:\My Space\LeoStudio\.Net Works\ForexWiz\ForexWiz\obj\Debug\ForexWizEntity.dll
+C:\My Space\LeoStudio\.Net Works\ForexWiz\ForexWiz\obj\Debug\ForexWizEntity.pdb

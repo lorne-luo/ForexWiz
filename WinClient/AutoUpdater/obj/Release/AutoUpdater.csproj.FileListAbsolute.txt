@@ -1,0 +1,22 @@
+C:\My Space\leostudio\ForexWiz\AutoUpdater\bin\Release\AutoUpdater.config
+C:\My Space\leostudio\ForexWiz\AutoUpdater\bin\Release\AutoUpdater.dll
+C:\My Space\leostudio\ForexWiz\AutoUpdater\bin\Release\AutoUpdater.pdb
+C:\My Space\leostudio\ForexWiz\AutoUpdater\bin\Release\DevComponents.DotNetBar2.dll
+C:\My Space\leostudio\ForexWiz\AutoUpdater\obj\Release\ResolveAssemblyReference.cache
+C:\My Space\leostudio\ForexWiz\AutoUpdater\obj\Release\LeoStudio.Autoupdater.DownloadConfirm.resources
+C:\My Space\leostudio\ForexWiz\AutoUpdater\obj\Release\LeoStudio.Autoupdater.DownloadProgress.resources
+C:\My Space\leostudio\ForexWiz\AutoUpdater\obj\Release\AutoUpdater.Properties.Resources.resources
+C:\My Space\leostudio\ForexWiz\AutoUpdater\obj\Release\AutoUpdater.csproj.GenerateResource.Cache
+C:\My Space\leostudio\ForexWiz\AutoUpdater\obj\Release\AutoUpdater.dll
+C:\My Space\leostudio\ForexWiz\AutoUpdater\obj\Release\AutoUpdater.pdb
+C:\My Space\LeoStudio\.Net Works\ForexWiz\AutoUpdater\bin\Release\AutoUpdater.config
+C:\My Space\LeoStudio\.Net Works\ForexWiz\AutoUpdater\bin\Release\AutoUpdater.dll
+C:\My Space\LeoStudio\.Net Works\ForexWiz\AutoUpdater\bin\Release\AutoUpdater.pdb
+C:\My Space\LeoStudio\.Net Works\ForexWiz\AutoUpdater\bin\Release\DevComponents.DotNetBar2.dll
+C:\My Space\LeoStudio\.Net Works\ForexWiz\AutoUpdater\obj\Release\ResolveAssemblyReference.cache
+C:\My Space\LeoStudio\.Net Works\ForexWiz\AutoUpdater\obj\Release\LeoStudio.Autoupdater.DownloadConfirm.resources
+C:\My Space\LeoStudio\.Net Works\ForexWiz\AutoUpdater\obj\Release\LeoStudio.Autoupdater.DownloadProgress.resources
+C:\My Space\LeoStudio\.Net Works\ForexWiz\AutoUpdater\obj\Release\AutoUpdater.Properties.Resources.resources
+C:\My Space\LeoStudio\.Net Works\ForexWiz\AutoUpdater\obj\Release\AutoUpdater.csproj.GenerateResource.Cache
+C:\My Space\LeoStudio\.Net Works\ForexWiz\AutoUpdater\obj\Release\AutoUpdater.dll
+C:\My Space\LeoStudio\.Net Works\ForexWiz\AutoUpdater\obj\Release\AutoUpdater.pdb

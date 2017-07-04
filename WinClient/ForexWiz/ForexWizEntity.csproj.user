@@ -1,0 +1,12 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>ftp://112.65.244.132/domains/leandro.132.china123.net/public_html/forexwiz/publisher/|ftp://112.65.244.132/domains/leandro.132.china123.net/public_html/forexwiz/|ftp://112.65.244.132/forexwiz/|C:\Users\Leo\Desktop\apk\|http://leandro.132.china123.net/forexwiz/</PublishUrlHistory>
+    <InstallUrlHistory>http://leandro.132.china123.net/forexwiz/publisher/|http://leandro.132.china123.net/forexwiz/</InstallUrlHistory>
+    <SupportUrlHistory>http://leandro.132.china123.net/forexwiz/|ftp://112.65.244.132/forexwiz</SupportUrlHistory>
+    <UpdateUrlHistory>http://leandro.132.china123.net/forexwiz/</UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

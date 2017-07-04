@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForexWizEntity", "ForexWiz\ForexWizEntity.csproj", "{1466C533-F124-4E76-8065-F0F620843148}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoUpdater", "AutoUpdater\AutoUpdater.csproj", "{4BA4719C-C6AB-49BA-9754-848CA24C1FD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForexWiz", "Startup\ForexWiz.csproj", "{186989D4-F221-46B2-BF23-3C8EDE5B1A88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1466C533-F124-4E76-8065-F0F620843148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1466C533-F124-4E76-8065-F0F620843148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1466C533-F124-4E76-8065-F0F620843148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1466C533-F124-4E76-8065-F0F620843148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BA4719C-C6AB-49BA-9754-848CA24C1FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA4719C-C6AB-49BA-9754-848CA24C1FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA4719C-C6AB-49BA-9754-848CA24C1FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA4719C-C6AB-49BA-9754-848CA24C1FD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{186989D4-F221-46B2-BF23-3C8EDE5B1A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{186989D4-F221-46B2-BF23-3C8EDE5B1A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{186989D4-F221-46B2-BF23-3C8EDE5B1A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{186989D4-F221-46B2-BF23-3C8EDE5B1A88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

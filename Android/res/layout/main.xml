@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical"
+	android:background="@color/background" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:umadsdk="http://schemas.android.com/apk/res/com.leostudio.forexwiz">
+	<LinearLayout android:gravity="center"
+		android:layout_gravity="center" android:orientation="vertical"
+		android:layout_width="fill_parent" android:layout_height="wrap_content">
+		<LinearLayout android:layout_alignParentTop="true"
+			android:gravity="center" android:layout_gravity="center"
+			android:orientation="horizontal" android:background="@drawable/trades_tabs_background_solid"
+			android:focusable="true" android:layout_width="fill_parent"
+			android:layout_height="wrap_content">
+			<ImageView android:id="@+id/menu_header"
+				android:paddingBottom="10.0sp" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:src="@drawable/fxgame_header"
+				android:scaleType="fitStart" />
+		</LinearLayout>
+		<LinearLayout android:gravity="center"
+			android:layout_gravity="center" android:layout_width="fill_parent"
+			android:layout_height="wrap_content">
+			<ScrollView android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:layout_alignWithParentIfMissing="true"
+				android:layout_alignParentTop="true">
+				<LinearLayout android:gravity="center"
+					android:layout_gravity="center" android:layout_width="fill_parent"
+					android:layout_height="wrap_content">
+					<TableLayout android:layout_width="fill_parent"
+						android:layout_height="wrap_content" android:weightSum="3.0"
+						android:stretchColumns="0,1,2">
+						<TableRow android:gravity="center" android:layout_width="fill_parent"
+							android:layout_height="wrap_content" android:layout_weight="1.0">
+							<Button android:textSize="20.0sp" android:textStyle="bold"
+								android:textColor="@color/text" android:id="@+id/menu_price"
+								android:background="@drawable/menu_button" android:layout_width="wrap_content"
+								android:layout_height="wrap_content" android:text="@string/price"
+								android:drawableTop="@drawable/icon_rates" />
+							<Button android:textSize="20.0sp" android:textStyle="bold"
+								android:textColor="@color/text" android:id="@+id/menu_news"
+								android:background="@drawable/menu_button" android:layout_width="wrap_content"
+								android:layout_height="wrap_content" android:text="@string/news"
+								android:drawableTop="@drawable/icon_trades" />
+							<Button android:textSize="20.0sp" android:textStyle="bold"
+								android:textColor="@color/text" android:id="@+id/menu_tech"
+								android:background="@drawable/menu_button" android:layout_width="wrap_content"
+								android:layout_height="wrap_content" android:text="@string/tech"
+								android:drawableTop="@drawable/icon_orders" />
+						</TableRow>
+						<TableRow android:gravity="center" android:layout_width="fill_parent"
+							android:layout_height="wrap_content" android:layout_weight="1.0">
+							<Button android:textSize="20.0sp" android:textStyle="bold"
+								android:textColor="@color/text" android:id="@+id/menu_event"
+								android:background="@drawable/menu_button" android:layout_width="wrap_content"
+								android:layout_height="wrap_content" android:text="@string/event"
+								android:drawableTop="@drawable/icon_buysell" />
+							<Button android:textSize="20.0sp" android:textStyle="bold" android:visibility="invisible"
+								android:textColor="@color/text" android:id="@+id/menu_signal"
+								android:background="@drawable/menu_button" android:layout_width="wrap_content"
+								android:layout_height="wrap_content" android:text="@string/signal"
+								android:drawableTop="@drawable/icon_trades" />
+							<Button android:textSize="20.0sp" android:textStyle="bold" android:visibility="invisible"
+								android:textColor="@color/text" android:id="@+id/menu_6"
+								android:background="@drawable/menu_button" android:layout_width="wrap_content"
+								android:layout_height="wrap_content" android:text="@string/news"
+								android:drawableTop="@drawable/icon_orders" />
+						</TableRow>
+					</TableLayout>
+				</LinearLayout>
+			</ScrollView>
+
+		</LinearLayout>
+
+	</LinearLayout>
+
+	<LinearLayout android:gravity="center"
+		android:layout_alignParentBottom="true" android:layout_gravity="center"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:layout_marginTop="15sp">
+
+		<TableLayout android:layout_gravity="bottom"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"
+			android:weightSum="3.0" android:stretchColumns="0,1,2">
+			<TableRow android:gravity="center" android:background="@color/row_background"
+				android:layout_width="fill_parent" android:layout_height="wrap_content"
+				android:layout_weight="1.0">
+				<Button android:textSize="13.0sp" android:textColor="@color/row_text"
+					android:id="@+id/menu_setting" android:background="@drawable/menu_button"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/setting" android:drawableTop="@drawable/icon_account" />
+				<Button android:textSize="13.0sp" android:textColor="@color/row_text"
+					android:id="@+id/menu_about" android:background="@drawable/menu_button"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/about" android:drawableTop="@drawable/icon_contact" />
+				<Button android:textSize="13.0sp" android:textColor="@color/row_text"
+					android:id="@+id/menu_quit" android:background="@drawable/menu_button"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/quit" android:drawableTop="@drawable/icon_logout" />
+			</TableRow>
+		</TableLayout>
+	</LinearLayout>
+</RelativeLayout>

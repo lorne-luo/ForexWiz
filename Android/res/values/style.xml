@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="net.youmi.android.AdView">
+		<attr name="backgroundColor" format="color" />
+		<attr name="textColor" format="color" />
+		<attr name="backgroundTransparent" format="integer" />
+	</declare-styleable>
+
+	<style name="NewsAlertDialog">
+		<item name="android:textColor">#ff00FF00</item>
+		<item name="android:textSize">10sp</item>
+	</style>
+</resources>

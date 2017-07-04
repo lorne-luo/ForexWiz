@@ -1,0 +1,13 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>ftp://112.65.244.132/domains/leandro.132.china123.net/public_html/forexwiz/publisher/|publish\</PublishUrlHistory>
+    <InstallUrlHistory>http://leandro.132.china123.net/forexwiz/publisher/</InstallUrlHistory>
+    <SupportUrlHistory>http://leandro.132.china123.net/forexwiz/publisher/</SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

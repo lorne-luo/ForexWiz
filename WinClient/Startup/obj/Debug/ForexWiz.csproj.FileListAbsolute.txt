@@ -1,0 +1,32 @@
+C:\My Space\leostudio\ForexWiz\Startup\bin\Debug\AutoUpdater.config
+C:\My Space\leostudio\ForexWiz\Startup\bin\Debug\ForexWiz.exe
+C:\My Space\leostudio\ForexWiz\Startup\bin\Debug\ForexWiz.pdb
+C:\My Space\leostudio\ForexWiz\Startup\bin\Debug\AutoUpdater.dll
+C:\My Space\leostudio\ForexWiz\Startup\bin\Debug\ForexWizEntity.dll
+C:\My Space\leostudio\ForexWiz\Startup\bin\Debug\HtmlAgilityPack.dll
+C:\My Space\leostudio\ForexWiz\Startup\bin\Debug\DevComponents.DotNetBar2.dll
+C:\My Space\leostudio\ForexWiz\Startup\bin\Debug\QWeiboSDK.dll
+C:\My Space\leostudio\ForexWiz\Startup\bin\Debug\System.Web.Extensions.dll
+C:\My Space\leostudio\ForexWiz\Startup\bin\Debug\ForexWizEntity.pdb
+C:\My Space\leostudio\ForexWiz\Startup\bin\Debug\AutoUpdater.pdb
+C:\My Space\leostudio\ForexWiz\Startup\obj\Debug\ResolveAssemblyReference.cache
+C:\My Space\leostudio\ForexWiz\Startup\obj\Debug\LeoStudio.Startup.Properties.Resources.resources
+C:\My Space\leostudio\ForexWiz\Startup\obj\Debug\ForexWiz.csproj.GenerateResource.Cache
+C:\My Space\leostudio\ForexWiz\Startup\obj\Debug\ForexWiz.exe
+C:\My Space\leostudio\ForexWiz\Startup\obj\Debug\ForexWiz.pdb
+C:\My Space\LeoStudio\.Net Works\ForexWiz\Startup\obj\Debug\ForexWiz.exe
+C:\My Space\LeoStudio\.Net Works\ForexWiz\Startup\obj\Debug\ForexWiz.pdb
+C:\My Space\LeoStudio\.Net Works\ForexWiz\Startup\bin\Debug\AutoUpdater.config
+C:\My Space\LeoStudio\.Net Works\ForexWiz\Startup\bin\Debug\ForexWiz.exe
+C:\My Space\LeoStudio\.Net Works\ForexWiz\Startup\bin\Debug\ForexWiz.pdb
+C:\My Space\LeoStudio\.Net Works\ForexWiz\Startup\bin\Debug\AutoUpdater.dll
+C:\My Space\LeoStudio\.Net Works\ForexWiz\Startup\bin\Debug\ForexWizEntity.dll
+C:\My Space\LeoStudio\.Net Works\ForexWiz\Startup\bin\Debug\HtmlAgilityPack.dll
+C:\My Space\LeoStudio\.Net Works\ForexWiz\Startup\bin\Debug\System.Web.Extensions.dll
+C:\My Space\LeoStudio\.Net Works\ForexWiz\Startup\bin\Debug\DevComponents.DotNetBar2.dll
+C:\My Space\LeoStudio\.Net Works\ForexWiz\Startup\bin\Debug\QWeiboSDK.dll
+C:\My Space\LeoStudio\.Net Works\ForexWiz\Startup\bin\Debug\AutoUpdater.pdb
+C:\My Space\LeoStudio\.Net Works\ForexWiz\Startup\bin\Debug\ForexWizEntity.pdb
+C:\My Space\LeoStudio\.Net Works\ForexWiz\Startup\obj\Debug\ResolveAssemblyReference.cache
+C:\My Space\LeoStudio\.Net Works\ForexWiz\Startup\obj\Debug\LeoStudio.Startup.Properties.Resources.resources
+C:\My Space\LeoStudio\.Net Works\ForexWiz\Startup\obj\Debug\ForexWiz.csproj.GenerateResource.Cache

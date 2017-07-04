@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:background="@color/background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+	<LinearLayout android:orientation="vertical" android:gravity="center_vertical" android:id="@+id/tech_listitem" android:padding="5.0sp" android:layout_width="fill_parent" android:layout_height="wrap_content">
+		<TextView android:layout_height="wrap_content" android:gravity="left" android:layout_width="fill_parent" android:id="@+id/tech_title" android:text="a" android:textStyle="bold" android:textSize="15.0sp" android:textColor="@color/text"></TextView>
+		<TextView android:layout_height="wrap_content" android:gravity="left" android:layout_width="fill_parent" android:id="@+id/tech_content" android:text="欧洲时段汇价大幅回落，触及多头止盈，我们结利出场。日图反弹受阻于50日均线，回落跌穿5、10日均线，加大了汇价进一步下跌的风险。我们暂时观望。" android:textSize="14.0sp" android:textColor="@color/text"></TextView>
+	</LinearLayout>
+</RelativeLayout>

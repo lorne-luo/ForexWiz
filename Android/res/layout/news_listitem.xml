@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical"
+	android:background="@color/background" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+	<LinearLayout android:orientation="horizontal"
+		android:gravity="center_vertical" android:id="@+id/news_listitem"
+		android:padding="5.0sp" android:layout_width="fill_parent"
+		android:layout_height="wrap_content">
+		<LinearLayout android:id="@+id/news_listitem_anim_container"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"
+			android:layout_weight="1.0">
+
+			<!--
+				<ImageView android:gravity="center_horizontal"
+				android:id="@+id/news_item_img" android:layout_width="wrap_content"
+				android:layout_height="16.0sp" android:scaleType="fitCenter"
+				android:layout_weight="1.0" />
+			-->
+			<TextView android:gravity="center_vertical"
+				android:textSize="15.0sp" android:id="@+id/news_item_time"
+				android:layout_width="44sp" android:textStyle="bold"
+				android:layout_height="wrap_content" android:text="19:30:52" />
+			<TextView android:layout_height="wrap_content"
+				android:gravity="left"  android:paddingLeft="0sp" android:layout_width="wrap_content" android:id="@+id/news_item_title"
+				android:text=""
+				android:textSize="18.0sp" android:textColor="@color/text"></TextView>
+			
+
+			<LinearLayout android:gravity="center_horizontal"
+				android:orientation="vertical" android:paddingTop="3.0dip"
+				android:paddingBottom="3.0dip" android:layout_width="30.0dip"
+				android:layout_height="wrap_content" android:layout_marginLeft="3.0dip"
+				android:layout_marginRight="3.0dip" android:layout_weight="1.0">
+			</LinearLayout>
+		</LinearLayout>
+
+	</LinearLayout>
+</RelativeLayout>

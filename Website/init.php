@@ -1,0 +1,13 @@
+<?php
+$mmc=memcache_init();
+memcache_set($mmc,"count",1);
+memcache_set($mmc,"news","news");
+memcache_set($mmc,"lastnews",1);
+memcache_set($mmc,"price","price");
+memcache_set($mmc,"lastprice",1);
+memcache_set($mmc,"tech","tech");
+memcache_set($mmc,"lasttech",1);
+memcache_set($mmc,"event","event");
+memcache_set($mmc,"lastevent",1);
+memcache_set($mmc,"lastquery",1);
+?>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="price">即时价格</string>
+    <string name="news">汇市新闻</string>
+    <string name="tech">技术分析</string>
+    <string name="event">财经日历</string>
+    <string name="signal">重要指标</string>
+    
+    
+    <string name="setting">设置</string>
+    <string name="about">关于</string>
+    <string name="quit">退出</string>
+</resources>

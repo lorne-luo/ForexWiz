@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rates>
+    <Rate Symbol="EURUSD">
+        <Bid>1.38132</Bid>
+        <Ask>1.3815</Ask>
+        <High>1.3843</High>
+        <Low>1.3742</Low>
+        <Direction>-1</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="USDJPY">
+        <Bid>82.032</Bid>
+        <Ask>82.055</Ask>
+        <High>82.148</High>
+        <Low>81.806</Low>
+        <Direction>0</Direction>
+        <Last>13:16:33</Last>
+    </Rate>
+    <Rate Symbol="GBPUSD">
+        <Bid>1.62847</Bid>
+        <Ask>1.62874</Ask>
+        <High>1.63252</High>
+        <Low>1.62138</Low>
+        <Direction>1</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="USDCHF">
+        <Bid>.92697</Bid>
+        <Ask>.92721</Ask>
+        <High>.92932</High>
+        <Low>.92488</Low>
+        <Direction>-1</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="EURCHF">
+        <Bid>1.28057</Bid>
+        <Ask>1.28082</Ask>
+        <High>1.28216</High>
+        <Low>1.27551</Low>
+        <Direction>-1</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="AUDUSD">
+        <Bid>1.01352</Bid>
+        <Ask>1.01377</Ask>
+        <High>1.01561</High>
+        <Low>1.00843</Low>
+        <Direction>-1</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="USDCAD">
+        <Bid>.97422</Bid>
+        <Ask>.97447</Ask>
+        <High>.97774</High>
+        <Low>.9729</Low>
+        <Direction>1</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="NZDUSD">
+        <Bid>.74093</Bid>
+        <Ask>.7412</Ask>
+        <High>.7484</High>
+        <Low>.73827</Low>
+        <Direction>-1</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="EURJPY">
+        <Bid>113.318</Bid>
+        <Ask>113.347</Ask>
+        <High>113.411</High>
+        <Low>112.523</Low>
+        <Direction>-1</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="GBPJPY">
+        <Bid>133.6</Bid>
+        <Ask>133.637</Ask>
+        <High>133.789</High>
+        <Low>132.81</Low>
+        <Direction>1</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="EURGBP">
+        <Bid>.8481</Bid>
+        <Ask>.84832</Ask>
+        <High>.849</High>
+        <Low>.84595</Low>
+        <Direction>-1</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="CHFJPY">
+        <Bid>88.479</Bid>
+        <Ask>88.511</Ask>
+        <High>88.624</High>
+        <Low>88.074</Low>
+        <Direction>1</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="GBPCHF">
+        <Bid>1.50967</Bid>
+        <Ask>1.51007</Ask>
+        <High>1.51266</High>
+        <Low>1.50347</Low>
+        <Direction>-1</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="EURAUD">
+        <Bid>1.36263</Bid>
+        <Ask>1.36297</Ask>
+        <High>1.36555</High>
+        <Low>1.35647</Low>
+        <Direction>0</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="EURCAD">
+        <Bid>1.34579</Bid>
+        <Ask>1.34616</Ask>
+        <High>1.34978</High>
+        <Low>1.34049</Low>
+        <Direction>0</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="AUDCAD">
+        <Bid>.98739</Bid>
+        <Ask>.98776</Ask>
+        <High>.99014</High>
+        <Low>.98386</Low>
+        <Direction>-1</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="AUDJPY">
+        <Bid>83.145</Bid>
+        <Ask>83.177</Ask>
+        <High>83.27</High>
+        <Low>82.612</Low>
+        <Direction>-1</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="CADJPY">
+        <Bid>84.19</Bid>
+        <Ask>84.229</Ask>
+        <High>84.364</High>
+        <Low>83.779</Low>
+        <Direction>1</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="NZDJPY">
+        <Bid>60.783</Bid>
+        <Ask>60.82</Ask>
+        <High>61.327</High>
+        <Low>60.451</Low>
+        <Direction>0</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="GBPAUD">
+        <Bid>1.60655</Bid>
+        <Ask>1.60683</Ask>
+        <High>1.61073</High>
+        <Low>1.60151</Low>
+        <Direction>1</Direction>
+        <Last>13:16:35</Last>
+    </Rate>
+    <Rate Symbol="AUDNZD">
+        <Bid>1.36758</Bid>
+        <Ask>1.36798</Ask>
+        <High>1.36951</High>
+        <Low>1.3542</Low>
+        <Direction>-1</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="AUDCHF">
+        <Bid>.93955</Bid>
+        <Ask>.93989</Ask>
+        <High>.94275</High>
+        <Low>.93571</Low>
+        <Direction>0</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="EURNZD">
+        <Bid>1.86358</Bid>
+        <Ask>1.86441</Ask>
+        <High>1.86677</High>
+        <Low>1.84091</Low>
+        <Direction>-1</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="USDSGD">
+        <Bid>1.27019</Bid>
+        <Ask>1.27121</Ask>
+        <High>1.27439</High>
+        <Low>1.26989</Low>
+        <Direction>-1</Direction>
+        <Last>13:16:07</Last>
+    </Rate>
+    <Rate Symbol="USDHKD">
+        <Bid>7.78989</Bid>
+        <Ask>7.79171</Ask>
+        <High>7.7941</High>
+        <Low>7.78847</Low>
+        <Direction>0</Direction>
+        <Last>13:15:01</Last>
+    </Rate>
+    <Rate Symbol="USDMXN">
+        <Bid>12.1241</Bid>
+        <Ask>12.1276</Ask>
+        <High>12.1479</High>
+        <Low>12.1016</Low>
+        <Direction>-1</Direction>
+        <Last>13:16:33</Last>
+    </Rate>
+    <Rate Symbol="GBPNZD">
+        <Bid>2.19709</Bid>
+        <Ask>2.19801</Ask>
+        <High>2.20141</High>
+        <Low>2.17378</Low>
+        <Direction>-1</Direction>
+        <Last>13:16:35</Last>
+    </Rate>
+    <Rate Symbol="USDSEK">
+        <Bid>6.3203</Bid>
+        <Ask>6.3233</Ask>
+        <High>6.3593</High>
+        <Low>6.3031</Low>
+        <Direction>-1</Direction>
+        <Last>13:16:35</Last>
+    </Rate>
+    <Rate Symbol="USDDKK">
+        <Bid>5.39641</Bid>
+        <Ask>5.3984</Ask>
+        <High>5.42623</High>
+        <Low>5.38564</Low>
+        <Direction>-1</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="EURSEK">
+        <Bid>8.73135</Bid>
+        <Ask>8.7343</Ask>
+        <High>8.7468</High>
+        <Low>8.7173</Low>
+        <Direction>1</Direction>
+        <Last>13:16:08</Last>
+    </Rate>
+    <Rate Symbol="EURNOK">
+        <Bid>7.70465</Bid>
+        <Ask>7.70743</Ask>
+        <High>7.7314</High>
+        <Low>7.6957</Low>
+        <Direction>1</Direction>
+        <Last>13:16:33</Last>
+    </Rate>
+    <Rate Symbol="USDNOK">
+        <Bid>5.57691</Bid>
+        <Ask>5.57996</Ask>
+        <High>5.6237</High>
+        <Low>5.56784</Low>
+        <Direction>1</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="USDZAR">
+        <Bid>6.9327</Bid>
+        <Ask>6.938</Ask>
+        <High>7.0178</High>
+        <Low>6.93</Low>
+        <Direction>1</Direction>
+        <Last>13:16:35</Last>
+    </Rate>
+    <Rate Symbol="EURDKK">
+        <Bid>7.45499</Bid>
+        <Ask>7.45681</Ask>
+        <High>7.45916</High>
+        <Low>7.45479</Low>
+        <Direction>0</Direction>
+        <Last>13:16:10</Last>
+    </Rate>
+    <Rate Symbol="GBPCAD">
+        <Bid>1.58646</Bid>
+        <Ask>1.58699</Ask>
+        <High>1.59293</High>
+        <Low>1.5816</Low>
+        <Direction>-1</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="NOKJPY">
+        <Bid>14.689</Bid>
+        <Ask>14.724</Ask>
+        <High>14.853</High>
+        <Low>14.489</Low>
+        <Direction>0</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="SEKJPY">
+        <Bid>12.962</Bid>
+        <Ask>12.994</Ask>
+        <High>13.112</High>
+        <Low>12.811</Low>
+        <Direction>0</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="USDTRY">
+        <Bid>1.61839</Bid>
+        <Ask>1.61921</Ask>
+        <High>1.62161</High>
+        <Low>1.61279</Low>
+        <Direction>-1</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="EURTRY">
+        <Bid>2.23599</Bid>
+        <Ask>2.23714</Ask>
+        <High>2.24269</High>
+        <Low>2.21699</Low>
+        <Direction>1</Direction>
+        <Last>13:16:35</Last>
+    </Rate>
+    <Rate Symbol="NZDCHF">
+        <Bid>.68678</Bid>
+        <Ask>.68732</Ask>
+        <High>.69515</High>
+        <Low>.68517</Low>
+        <Direction>0</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="CADCHF">
+        <Bid>.9513</Bid>
+        <Ask>.9518</Ask>
+        <High>.9549</High>
+        <Low>.94781</Low>
+        <Direction>1</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+    <Rate Symbol="NZDCAD">
+        <Bid>.72178</Bid>
+        <Ask>.72228</Ask>
+        <High>.72925</High>
+        <Low>.71987</Low>
+        <Direction>-1</Direction>
+        <Last>13:16:34</Last>
+    </Rate>
+</Rates>

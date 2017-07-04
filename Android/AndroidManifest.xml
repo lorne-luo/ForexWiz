@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="com.leostudio.forexwiz" android:versionCode="20110630"
+	android:versionName="1.2">
+
+	<uses-sdk android:minSdkVersion="4"></uses-sdk>
+	<uses-permission android:name="android.permission.READ_PHONE_STATE"></uses-permission>
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission>
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"></uses-permission>
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE"></uses-permission>
+	<uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+	<uses-permission android:name="android.permission.READ_LOGS"></uses-permission>
+
+	<!--
+		<application android:theme="@android:style/Theme.Black.NoTitleBar.FullScreen"
+		android:icon="@drawable/icon" android:label="@string/app_name"
+		android:name="com.leostudio.forexwiz" android:debuggable="true">
+	-->
+	<application android:theme="@android:style/Theme.Black.NoTitleBar"
+		android:icon="@drawable/icon" android:label="@string/app_name">
+
+		<meta-data android:name="gfan_cpid" android:value="AppChina" />
+		<meta-data android:name="gfan_statistics_appkey"
+			android:value="12HCPH85JC3CGJJ5MPCV1JOI26" />
+		<meta-data android:name="gfan_type" android:value="tongjisdk" />
+
+		<activity android:name="Main" android:configChanges="keyboard|keyboardHidden|orientation"
+			android:label="@string/app_name">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+		<activity android:name=".price.PriceActivity" android:label="@string/app_name"
+			android:configChanges="keyboard|keyboardHidden|orientation"
+			android:screenOrientation="portrait">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.DEFAULT" />
+			</intent-filter>
+		</activity>
+		<activity android:name=".news.NewsActivity" android:label="@string/app_name"
+			android:configChanges="keyboard|keyboardHidden|orientation"
+			android:screenOrientation="portrait">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.DEFAULT" />
+			</intent-filter>
+		</activity>
+		<activity android:name=".tech.TechActivity" android:label="@string/app_name"
+			android:configChanges="keyboard|keyboardHidden|orientation"
+			android:screenOrientation="portrait">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.DEFAULT" />
+			</intent-filter>
+		</activity>
+		<activity android:name=".event.EventActivity" android:label="@string/app_name"
+			android:configChanges="keyboard|keyboardHidden|orientation"
+			android:screenOrientation="portrait">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.DEFAULT" />
+			</intent-filter>
+		</activity>
+		<activity android:name="net.youmi.android.AdActivity"
+			android:configChanges="keyboard|keyboardHidden|orientation" />
+
+		<!-- 添加反馈Activity -->
+		<activity android:name="com.mobclick.android.UmengFeedback" />
+		<!-- 基本统计：value为添加应用时获得的key ，name的值不要更改 -->
+		<meta-data android:value="4df2d364431fe35400000141"
+			android:name="UMENG_APPKEY"></meta-data>
+		<!-- 渠道统计:values 为您的自定义的渠道号， name的值不要更改 -->
+		<!--NDuo	AppChina	LuoTao	HiAPK	Umeng	Gfan QQ-->
+		<meta-data android:value="QQ" android:name="UMENG_CHANNEL" />
+	</application>
+</manifest>
